@@ -1,0 +1,6 @@
+Problems:
+
+1. We need to specify many dependency for getting different jars.
+2. we need to check Version compatability.
+3. Complexity in Configuring many Beansin Bean Configuration file.
+4. Hard-coding beans properties in bean configuration class
